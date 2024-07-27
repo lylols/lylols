@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shradha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate about Data Analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lylols&label=Profile%20views&color=0e75b6&style=flat" alt="lylols" /> </p>
 
