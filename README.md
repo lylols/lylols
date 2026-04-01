@@ -38,7 +38,8 @@
 
 ### 📌 Featured Projects
 - 📊 **Layoff Analysis App**  
-  Built using Streamlit, SQL, and Python with 45+ analytical queries and dynamic filters  
+  Built using Streamlit, SQL, and Python with 45+ analytical queries and dynamic filters
+  🔗 https://layoffanalysisapp-dashboard.streamlit.app/
 
 - 🛒 **E-Commerce Sales Dashboard**  
   Interactive Power BI dashboard improving business decision making  
@@ -60,6 +61,7 @@
 ### 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/shradha-shrivastava-11a14b254/
 - 💻 GitHub: https://github.com/lylols
+- 🧠 LeetCode: https://leetcode.com/lylols
 - 📧 Email: shradhashrivastava04@gmail.com
 
 ---
