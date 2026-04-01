@@ -18,10 +18,19 @@
 ---
 
 ### 🛠️ Tech Stack
+### 🛠️ Tech Stack
 <p align="left">
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></a>
 <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/power-bi.png" width="40"/></a>
+<a href="https://learn.microsoft.com/en-us/fabric/" target="_blank"><img src="https://img.icons8.com/color/48/microsoft.png" width="40"/></a>
+<a href="https://learn.microsoft.com/en-us/dax/" target="_blank"><img src="https://img.icons8.com/color/48/combo-chart.png" width="40"/></a>
+<a href="https://matplotlib.org/" target="_blank"><img src="https://img.icons8.com/color/48/graph.png" width="40"/></a>
+<a href="https://numpy.org/" target="_blank"><img src="https://img.icons8.com/color/48/sigma.png" width="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.icons8.com/color/48/data-configuration.png" width="40"/></a>
+<a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="40"/></a>
+<a href="https://databricks.com/" target="_blank"><img src="https://img.icons8.com/color/48/databricks.png" width="40"/></a>
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
 </p>
