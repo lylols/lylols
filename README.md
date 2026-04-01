@@ -11,7 +11,7 @@
 - 🎓 Final year B.Tech student in **Artificial Intelligence & Data Science**
 - 📊 Passionate about **Data Analysis and solving real-world problems**
 - 💼 Completed internships in **Python & Data Analytics**
-- 📈 Skilled in **SQL, Excel, Power BI, and Data Visualization**
+- 📈 Skilled in **SQL, Excel, Power BI, MS Fabric, Python, C++, DSA and Data Visualization**
 - 🚀 Interested in **Data Analyst and Business Analytics roles**
 - 📌 Strong focus on **structured problem solving and clean insights**
 
